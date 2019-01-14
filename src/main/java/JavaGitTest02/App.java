@@ -5,7 +5,7 @@ package JavaGitTest02;
 
 public class App {
     public String getGreeting() {
-        return "Hello world.";
+        return "Hello whatever.";
     }
 
     public static void main(String[] args) {
